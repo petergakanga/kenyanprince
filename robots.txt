@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://petergakanga.github.io/sitemap.xml
